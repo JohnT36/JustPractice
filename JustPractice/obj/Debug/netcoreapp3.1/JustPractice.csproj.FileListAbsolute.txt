@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\bin\Debug\netcoreapp3.1\JustPractice.exe
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\bin\Debug\netcoreapp3.1\JustPractice.deps.json
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\bin\Debug\netcoreapp3.1\JustPractice.runtimeconfig.json
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\bin\Debug\netcoreapp3.1\JustPractice.runtimeconfig.dev.json
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\bin\Debug\netcoreapp3.1\JustPractice.dll
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\bin\Debug\netcoreapp3.1\JustPractice.pdb
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\obj\Debug\netcoreapp3.1\JustPractice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\obj\Debug\netcoreapp3.1\JustPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\obj\Debug\netcoreapp3.1\JustPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\obj\Debug\netcoreapp3.1\JustPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\obj\Debug\netcoreapp3.1\JustPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\obj\Debug\netcoreapp3.1\JustPractice.dll
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\obj\Debug\netcoreapp3.1\JustPractice.pdb
+C:\Users\User\Desktop\Repos\JustPractice\JustPractice\obj\Debug\netcoreapp3.1\JustPractice.genruntimeconfig.cache
